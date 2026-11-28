@@ -1,0 +1,26 @@
+cff-version: 1.0.1
+message: N/D
+title: N/D
+authors:
+  - family-names: Loiolla Gomes
+    given-names: Lucas
+  - family-names: Soares Silva 
+    given-names: Kauã Felipe
+  - family-names: da Silva 
+    given-names: Bruno Marinho
+  - family-names: de Almeida Oliveira 
+    given-names: Luiz Felipe
+  - family-names: Silva Santana
+    given-names: Mateus Junior
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Rodrigues
+    given-names: Edwaldo
+keywords:
+  - grafos
+  - mapas
+  - navegação
+repository-code: https://github.com/mateusjdev/puc-si-grafos-tp
+license: MIT
+version: 1.0.0
+date-released: N/D
